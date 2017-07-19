@@ -2,7 +2,7 @@
 title: "Reproducible Research- Peer Assessment 1"
 author: "Bozidarka Jankovic"
 date: "July 19, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
